@@ -1,0 +1,12 @@
+{
+  "name": "TürkOS Bilge Sürüm",
+  "version": "4.2.0",
+  "updated": "2026-11-16",
+  "file": "turkos.html",
+  "releaseNotes": [
+    "Tanıtım sitesindeki canlı önizleme artık uygulamanın gömülü kopyasını kullanır; ayrı dosya yolu gerekmez.",
+    "Önizleme yenileme, yeni sekmede açma ve HTML indirme düğmeleri tek dosyada çalışır.",
+    "Uygulama srcdoc önizlemesinde çalışırken sürüm kontrolü ana sitenin adresini kullanır.",
+    "4.1.0 sürümündeki depolama yedeği, mobil pencere iyileştirmeleri ve hesap makinesi düzeltmeleri korunur."
+  ]
+}
